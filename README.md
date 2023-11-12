@@ -28,7 +28,5 @@
 #
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivian-silva-588a33135/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vivian.h.silva?igshid=MzMyNGUyNmU2YQ==)
 
-###
-
- ![Snake animation](https://github.com/brennosullivan/brennosullivan/blob/output/github-contribution-grid-snake.svg)
